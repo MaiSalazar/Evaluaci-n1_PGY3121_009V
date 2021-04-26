@@ -1,0 +1,33 @@
+body {
+    background: rgb(243, 213, 213)
+}
+
+#container1 {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+
+.container {
+    margin-top: 2%;
+}
+
+.pie {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.des {
+    text-align: center;
+}
+
+.lista {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.media {
+    margin-top: 2%;
+}
